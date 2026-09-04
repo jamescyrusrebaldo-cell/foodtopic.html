@@ -84,14 +84,13 @@ strong {
 a {
     display: block;
     padding: 10px;
-    color: #7b4b2a;
+    color: #8b4513;
     text-decoration: none;
     font-weight: bold;
-    transition: 0.3s ease;
+    text-align: center;
 }
 
 a:hover {
-    background-color: #ead8c0;
+    background-color: #f0d9b5;
     border-radius: 5px;
-    padding-left: 15px;
 }
